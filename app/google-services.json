@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070409757714",
+    "project_id": "retrieveimagefirebase-56b73",
+    "storage_bucket": "retrieveimagefirebase-56b73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070409757714:android:ac887ad6e8a0f8c93214cb",
+        "android_client_info": {
+          "package_name": "uz.texnopos.retrieveimagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070409757714-n5slink131k0sjt30743umcd5igorrp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.texnopos.retrieveimagefirebase",
+            "certificate_hash": "ee24e2acf557835f98c3810a37d4853a21be9a03"
+          }
+        },
+        {
+          "client_id": "1070409757714-b2utf4rhtb2lke0ve35vr7n2he6vvdrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLeGlMlXNw4LrDkMc848qlJV9HDd-ndGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070409757714-b2utf4rhtb2lke0ve35vr7n2he6vvdrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
